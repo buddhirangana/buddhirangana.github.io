@@ -17,6 +17,10 @@
 
 # Hello, Coders ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue) </a>
+<a href="https://tecroom.lk/">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
+<a href="https://buddhirangana.github.io/">![contact](https://img.shields.io/badge/Visit%20Web-buddhirangana.github.io-green) </a>
+
 ### Who Am I?
 
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
