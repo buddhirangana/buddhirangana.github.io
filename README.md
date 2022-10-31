@@ -39,10 +39,10 @@
 <a href="https://youtube.com/c/tecroom" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="5%"></code></a>
 
 ### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&theme=radical">
+![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
 
 ### My Top Languages in GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=radical">
+![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
 
 **Keep Support For My Projects**
 
