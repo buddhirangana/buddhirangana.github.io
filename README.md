@@ -13,7 +13,7 @@
 [issues-shield]: https://img.shields.io/github/issues/buddhirangana/buddhirangana.github.io.svg?style=for-the-badge
 [issues-url]: https://github.com/buddhirangana/buddhirangana.github.io/issues
 [license-shield]: https://img.shields.io/github/license/buddhirangana/buddhirangana.github.io.svg?style=for-the-badge
-[license-url]: https://github.com/buddhirangana/buddhirangana.github.io/blob/main/LICENSE.txt
+[license-url]: https://github.com/buddhirangana/buddhirangana.github.io/blob/main/LICENSE
 
 # Hello, Coders ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
