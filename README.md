@@ -37,13 +37,3 @@
 <a href="https://github.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="5%"></code></a>
 <a href="https://t.me/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="5%"></code></a>
 <a href="https://youtube.com/c/tecroom" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="5%"></code></a>
-
-### My GitHub Stats
-![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
-
-### My Top Languages in GitHub
-![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
-
-**Keep Support For My Projects**
-
-**Thank You**
