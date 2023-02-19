@@ -1,5 +1,5 @@
-User-Agent: *
+User-agent: *
+Disallow: 
 Allow: /
 
 Sitemap: https://buddhirangana.github.io/sitemap.xml
-
